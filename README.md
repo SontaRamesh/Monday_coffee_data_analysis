@@ -1,2 +1,3 @@
 # Monday_coffee_data_analysis
-[Monday Coffee Expansion SQL Project](1.png)
+<img src="1.png" alt="Preview" width="400">
+
