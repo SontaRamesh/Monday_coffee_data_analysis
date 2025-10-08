@@ -1,10 +1,10 @@
 # Monday_coffee_data_analysis
 <img src="1.png" alt="Preview" width="100%">
 
-#Objective
+# Objective
 The goal of this project is to analyze the sales data of Monday Coffee, a company that has been selling its products online since January 2023, and to recommend the top three major cities in India for opening new coffee shop locations based on consumer demand and sales performance.
 
-#Key Questions
+# Key Questions
 Coffee Consumers Count
 How many people in each city are estimated to consume coffee, given that 25% of the population does?
 
@@ -35,7 +35,7 @@ Sales growth rate: Calculate the percentage growth (or decline) in sales over di
 Market Potential Analysis
 Identify top 3 city based on highest sales, return city name, total sale, total rent, total customers, estimated coffee consumer
 
-#Recommendations
+# Recommendations
 After analyzing the data, the recommended top three cities for new store openings are:
 
 City 1: Pune
